@@ -12,6 +12,12 @@
 
 <hr>
 
+# Screenshot
+
+<img src= "https://github.com/samsepoil1211/Responsive-admin-dashboards/blob/main/Admin%20Dashboard%20%2301/screenshot1.png">
+
+<hr>
+
 # Usage 
 
 <b> clone the repo and extract the index.html, index.php and style.css and add your server side php code along with the the code provided by me, then sync all the data with the dashboard and adjust the fonts if you need, that's it. You are ready to go. </b>
